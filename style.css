@@ -1,5 +1,11 @@
 header {
     background-color: #000000;
-    color
+    color: #ffffff;
+}
 
+.cabecalho {
+    color: #ffffff;
+    text-align: center;
+    display: flex;
+    margin-left: 660px;
 }
