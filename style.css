@@ -1,13 +1,11 @@
 header {
-    background-color: #000000;
-    color: #ffffff;
+    background-color: white;
+    color: black;
 }
 
 .cabecalho {
     color: #ffffff;
-    text-align: center;
-    margin-left: 0cap;
-   
+    text-align: center;   
 }
 
 .cabecalho-lista-1{
